@@ -1,4 +1,4 @@
-Amazon changes a bunch of stuff in Linux 2. No longer using 'yum'
+Amazon changed the install in Linux 2. One no-longer using 'yum'
 See: https://aws.amazon.com/amazon-linux-2/release-notes/
 
 ## Docker CE Install
