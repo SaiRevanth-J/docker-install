@@ -23,7 +23,7 @@ Reboot to verify it all loads fine on its own.
 
 ## docker-compose install
 
-Install docker-compose to build the kafka proxy cluster from a single definition file.
+Copy the appropriate `docker-compose` binary from GitHub:
 
 `sudo curl -L https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose`
 
